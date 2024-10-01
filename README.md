@@ -1,1 +1,1 @@
-# lateral-flow
+This repository contains the source code to run the lateral meltwater flow model described in "Modelling lateral meltwater flow and superimposed ice formation atop Greenland's near-surface ice slabs", Journal of Glaciology 2024.
